@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "#minecraft:coals",
+    "C": "minecraft:copper_nugget"
+  },
+  "pattern": [
+    "B",
+    "A",
+    "C"
+  ],
+  "result": {
+    "id": "minecraft:copper_torch",
+    "count": 6
+  }
+}

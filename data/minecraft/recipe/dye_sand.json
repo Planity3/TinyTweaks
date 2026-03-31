@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": "minecraft:sand",
+    "B": "minecraft:red_dye"
+  },
+  "result": {
+    "id": "minecraft:red_sand",
+    "count": 8
+  }
+}

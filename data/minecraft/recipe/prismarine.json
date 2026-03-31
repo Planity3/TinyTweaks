@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "minecraft:prismarine"
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "id": "minecraft:prismarine_bricks",
+    "count": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:granite",
+    "minecraft:granite",
+    "minecraft:granite",
+    "minecraft:cobblestone"
+  ],
+  "result": {
+    "id": "minecraft:andesite",
+    "count": 4
+  }
+}

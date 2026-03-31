@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AA"
+    ],
+    "key": {
+        "A": "minecraft:stone_slab"
+    },
+    "result": {
+        "id": "minecraft:stone",
+        "count": 1
+    }
+}

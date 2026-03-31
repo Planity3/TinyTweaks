@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "#minecraft:coals",
+    "C": "minecraft:soul_fire_base_blocks"
+  },
+  "pattern": [
+    "B",
+    "A",
+    "C"
+
+  ],
+  "result": {
+    "id": "minecraft:soul_torch",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AA"
+    ],
+    "key": {
+        "A": "minecraft:oak_slab"
+    },
+    "result": {
+        "id": "minecraft:oak_planks",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		[
+			"minecraft:yellow_dye"
+		],
+		[
+			"minecraft:blue_dye"
+		],
+		[
+			"minecraft:red_dye"
+		]
+	],
+	"result": {
+		"id": "minecraft:brown_dye",
+		"count": 3
+	}
+}

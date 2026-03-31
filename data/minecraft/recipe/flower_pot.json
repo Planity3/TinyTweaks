@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "minecraft:brick",
+    "B": "minecraft:dirt"
+  },
+  "pattern": [
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "id": "minecraft:flower_pot"
+  }
+}

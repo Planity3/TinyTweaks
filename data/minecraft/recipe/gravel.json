@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:flint",
+    "b": "minecraft:sand"
+  },
+  "result": {
+    "id": "minecraft:gravel",
+    "count": 1
+  }
+}

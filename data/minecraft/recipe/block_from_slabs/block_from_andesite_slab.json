@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AA"
+    ],
+    "key": {
+        "A": "minecraft:andesite_slab"
+    },
+    "result": {
+        "id": "minecraft:andesite",
+        "count": 1
+    }
+}

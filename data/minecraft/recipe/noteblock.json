@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "#minecraft:planks",
+    "B": "minecraft:redstone",
+    "C": "minecraft:copper_ingot"
+  },
+  "pattern": [
+    "CAC",
+    "ABA",
+    "CAC"
+  ],
+  "result": {
+    "id": "minecraft:note_block",
+    "count": 4
+  }
+}

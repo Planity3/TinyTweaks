@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "minecraft:prismarine_shard",
+    "B": "minecraft:prismarine_crystals"
+  },
+  "pattern": [
+    "ABA",
+    "BBB",
+    "ABA"
+  ],
+  "result": {
+    "id": "minecraft:sea_lantern",
+    "count": 4
+  }
+}

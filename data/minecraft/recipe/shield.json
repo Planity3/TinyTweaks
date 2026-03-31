@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": "#minecraft:planks",
+    "o": "minecraft:iron_ingot",
+    "n": "minecraft:iron_nugget"
+  },
+  "pattern": [
+    "nnn",
+    "oWo",
+    "nnn"
+  ],
+  "result": {
+    "id": "minecraft:shield"
+  }
+}

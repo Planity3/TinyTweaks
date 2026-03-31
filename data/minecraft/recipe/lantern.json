@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"pattern": [
+		" A ",
+		"CBC"
+	],
+	"key": {
+		"A": "minecraft:chain",
+		"B": "#minecraft:coals",
+		"C": "minecraft:iron_nugget"
+	},
+    "result": {
+        "id": "minecraft:lantern",
+		"count": 6
+    }
+}

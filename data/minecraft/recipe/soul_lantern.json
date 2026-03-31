@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"pattern": [
+		" A ",
+		"CBC",
+		" D "
+	],
+	"key": {
+		"A": "minecraft:iron_chain",
+		"B": "#minecraft:coals",
+		"C": "minecraft:iron_nugget",
+		"D": "#minecraft:soul_fire_base_blocks"
+	},
+    "result": {
+        "id": "minecraft:soul_lantern",
+		"count": 6
+    }
+}

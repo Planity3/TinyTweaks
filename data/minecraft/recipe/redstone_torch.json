@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "#minecraft:coals",
+    "C": "minecraft:redstone"
+  },
+  "pattern": [
+    "B",
+    "A",
+    "C"
+  ],
+  "result": {
+    "id": "minecraft:redstone_torch",
+    "count": 6
+  }
+}

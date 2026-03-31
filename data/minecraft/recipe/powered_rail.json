@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "minecraft:iron_nugget",
+    "B": "minecraft:stick",
+    "C": "minecraft:copper_ingot",
+    "D": "minecraft:redstone"
+  },
+  "pattern": [
+    "A A",
+    "CBA",
+    "A A"
+  ],
+  "result": {
+    "id": "minecraft:powered_rail",
+    "count": 6
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "#minecraft:planks"
+  },
+  "pattern": [
+    "A A",
+    " A "
+  ],
+  "result": {
+    "id": "minecraft:bowl",
+    "count": 3
+  }
+}

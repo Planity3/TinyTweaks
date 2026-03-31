@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:ink_sac",
+    "minecraft:prismarine",
+    "minecraft:prismarine",
+    "minecraft:prismarine",
+    "minecraft:prismarine",
+    "minecraft:prismarine",
+    "minecraft:prismarine",
+    "minecraft:prismarine",
+    "minecraft:prismarine"
+  ],
+  "result": {
+    "id": "minecraft:dark_prismarine",
+	"count": 8
+  }
+}
