@@ -23,12 +23,12 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:rabbit",
-          "weight": 20
+          "weight": 25
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:chicken",
-          "weight": 20
+          "weight": 21
         },
         {
           "type": "minecraft:item",
@@ -76,12 +76,12 @@
             }
           ],
           "name": "minecraft:string",
-          "weight": 25
+          "weight": 26
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:phantom_membrane",
-          "weight": 8
+          "weight": 7
         },
         {
           "type": "minecraft:item",

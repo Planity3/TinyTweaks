@@ -5,7 +5,7 @@
 		"CBC"
 	],
 	"key": {
-		"A": "minecraft:chain",
+		"A": "minecraft:iron_chain",
 		"B": "#minecraft:coals",
 		"C": "minecraft:iron_nugget"
 	},
